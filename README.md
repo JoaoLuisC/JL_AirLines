@@ -30,7 +30,7 @@
 
   <h2>Autores</h2>
   <ul>
-    <li>João Luís Cardoso (github.com/joaoluisc)</li>
+    <li>João Luís Cardoso (github.com/JoaoLuisC)</li>
     <li>Leonardo Paiva (github.com/leopaivap)</li>
   </ul>
  
